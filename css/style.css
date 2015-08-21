@@ -1,0 +1,26 @@
+.ptop-20 {
+    padding-top: 20px;
+}
+
+.pleft-1c {
+    padding-left: 8.333%;
+}
+
+.seat-class {
+    margin: 10px 0;
+    border: 1px solid #C3BDBD;
+    width: 20px;
+    height: 20px
+}
+
+.seatmode1 {
+    background-color: green;
+}
+
+.seatmode0 {
+    background-color: white;
+}
+
+.seatmode2 {
+    background-color: red;
+}
